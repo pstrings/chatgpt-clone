@@ -1,4 +1,4 @@
-import SessionProvider from "@/components/SessionProvider";
+import SessionProvider from "@/components/sessionProvider";
 import { getServerSession } from "next-auth";
 import SideBar from "@/components/sidebar";
 import "./globals.css";
