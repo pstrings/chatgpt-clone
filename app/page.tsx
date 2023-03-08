@@ -28,9 +28,9 @@ const Home = () => {
             <h2>Capabilities</h2>
           </div>
           <div className="space-y-2">
-            <p className="infoText">{`"Change the ChatGPT model to use."`}</p>
-            <p className="infoText">{`"Messages are stored in Firestore by Firebase."`}</p>
-            <p className="infoText">{`"Hot Toast notification when ChatGPT is thinking"`}</p>
+            <p className="infoText">{`"Can change the ChatGPT model to use."`}</p>
+            <p className="infoText">{`"Messages are stored in Firestore."`}</p>
+            <p className="infoText">{`"Notification when ChatGPT is thinking"`}</p>
           </div>
         </div>
 
